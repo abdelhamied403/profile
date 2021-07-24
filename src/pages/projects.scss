@@ -1,0 +1,40 @@
+.projects {
+  @media screen and (max-width: 767px) {
+    .head {
+      top: 20px;
+      z-index: 2;
+    }
+  }
+
+  .side-menu {
+    .item {
+      text-transform: capitalize;
+      transition: all 350ms ease;
+    }
+    .item.active {
+      background-color: lightgray;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    .menu {
+      margin-top: 10px;
+      box-shadow: 0 0 10px 0px white;
+      width: 100%;
+    }
+  }
+}
+
+.sidebar-container {
+  height: max-content;
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    z-index: 999;
+    right: 0;
+    top: -53px;
+    background: white;
+  }
+  &.show .sidebar {
+    display: block;
+  }
+}

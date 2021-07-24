@@ -1,0 +1,101 @@
+{
+  "projects": [
+    {
+      "name": "qarar blady",
+      "image": "https://i.imgur.com/wNoi6Mc.jpg",
+      "links": {
+        "git": "https://github.com/abdelhamied403/qarar",
+        "view": "https://qarar-balady-stg.vercel.app/"
+      },
+      "done": true,
+      "filters": ["react", "next"]
+    },
+    {
+      "name": "vega",
+      "image": "https://i.imgur.com/l1jzqsT.jpg",
+      "links": {
+        "git": "https://github.com/abdelhamied403/vega",
+        "view": "https://vega-380f4.web.app/"
+      },
+      "done": true,
+      "filters": ["vanilla"]
+    },
+    {
+      "name": "helpme school",
+      "image": "https://i.imgur.com/B5YhwaH.jpg",
+      "links": {
+        "view": "https://www.figma.com/file/HLZZCFsiKBOjqAQCEYe3QG/Help-me?node-id=0%3A1"
+      },
+      "done": false,
+      "filters": ["vue", "quasar"]
+    },
+    {
+      "name": "phantoms team",
+      "image": "https://i.imgur.com/AhR2p38.jpg",
+      "links": {
+        "git": "https://github.com/Abdelhamied403/phantoms",
+        "view": "https://phantoms.vercel.app/"
+      },
+      "done": true,
+      "filters": ["react"]
+    },
+    {
+      "name": "whatsapp clone",
+      "image": "https://i.imgur.com/s0tN9wB.jpg",
+      "links": {
+        "git": "https://github.com/Abdelhamied403/whatsapp",
+        "view": "https://whatsapp-sand-mu.vercel.app/"
+      },
+      "done": true,
+      "filters": ["mern", "react"]
+    },
+    {
+      "name": "mobile shop",
+      "image": "https://i.imgur.com/OmiSa6P.jpg",
+      "links": {
+        "git": "https://github.com/Abdelhamied403/mobileShop",
+        "view": "https://mobile-shop-rose.vercel.app/"
+      },
+      "done": true,
+      "filters": ["react"]
+    },
+    {
+      "name": "sesame",
+      "image": "https://i.imgur.com/XSRcDL9.jpg",
+      "links": {
+        "git": "https://github.com/abdelhamied403/SESAME",
+        "view": "https://sesame.vercel.app/"
+      },
+      "done": true,
+      "filters": ["gulp"]
+    },
+    {
+      "name": "movo",
+      "image": "https://i.imgur.com/2thc7yK.jpg",
+      "links": {
+        "git": "https://github.com/abdelhamied403/movo",
+        "view": "https://movo.vercel.app/"
+      },
+      "done": true,
+      "filters": ["vanilla"]
+    }
+  ],
+  "socials": [
+    {
+      "name": "mail",
+      "to": "mailto:Abdelhamied403@gmail.com"
+    },
+    {
+      "name": "github",
+      "to": "https://github.com/abdelhamied403"
+    },
+    {
+      "name": "linkedin",
+      "to": "https://www.linkedin.com/in/abdelhamied-mostafa/"
+    },
+    {
+      "name": "phone",
+      "to": "tel:+201060126809"
+    }
+  ]
+}

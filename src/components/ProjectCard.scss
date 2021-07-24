@@ -1,0 +1,11 @@
+.project-card {
+  .overlay {
+    top: 55%;
+    transition: all 350ms ease;
+  }
+  &:hover {
+    .overlay {
+      top: 0;
+    }
+  }
+}
