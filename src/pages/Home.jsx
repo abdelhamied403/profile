@@ -95,7 +95,7 @@ const Home = (props) => {
               className="m-auto capitalize bg-gray-800 border-2 border-gray-600 w-full py-4 hover:bg-gray-900 font-bold text-xl tracking-wider"
               onClick={() => {
                 window.open(
-                  "https://drive.google.com/file/d/1AyJpab0pSpAcV3zlOmyf7y-TJmA2dJcx/view?usp=sharing",
+                  "https://drive.google.com/file/d/1PSWyaz6xp7GfHKgTE3c9-IKtaqqTkgQs/view?usp=sharing",
                   "_blank"
                 );
               }}
