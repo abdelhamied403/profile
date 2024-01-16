@@ -5,9 +5,9 @@ import "./ProjectCard.scss";
 
 const ProjectCard = (props) => {
   return (
-    <div className="project-card rounded-3xl overflow-hidden relative cursor-pointer w-72">
+    <div className="project-card rounded-3xl overflow-hidden relative cursor-pointer w-72 height-80">
       <a href={props.links.view} target="_blank">
-        <img src={props.image} alt="" />
+        <img className="h-full object-cover" src={props.image} alt="" />
         <div className="overlay absolute bg-overlayGrad w-full h-full z-auto flex">
           <div className="content w-full mt-auto p-5">
             <h5 className="text-center my-4">{props.name}</h5>
