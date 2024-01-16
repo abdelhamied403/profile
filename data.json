@@ -5,7 +5,7 @@
       "image": "https://i.imgur.com/wNoi6Mc.jpg",
       "links": {
         "git": "https://github.com/abdelhamied403/qarar",
-        "view": "https://qarar-balady-stg.vercel.app/"
+        "view": "https://qarar-balady.vercel.app/"
       },
       "done": true,
       "filters": ["react", "next"]
