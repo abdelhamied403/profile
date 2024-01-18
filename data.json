@@ -4,7 +4,6 @@
       "name": "qarar blady",
       "image": "https://i.imgur.com/wNoi6Mc.jpg",
       "links": {
-        "git": "https://github.com/abdelhamied403/qarar",
         "view": "https://qarar-balady.vercel.app/"
       },
       "done": true,
@@ -14,7 +13,7 @@
       "name": "almotarjim Platform",
       "image": "https://i.imgur.com/kGIwDOV.png",
       "links": {
-        "git": "https://github.com/abdelhamied403/qarar",
+        "git": "https://github.com/abdelhamied403/almotarjim",
         "view": "https://almotarjim.net/"
       },
       "done": true,
